@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==QQENFTw4WY29VR3pWR0VjTXNGT2cmQ0cjbWhXRJZEZxV0Ql52TSBTT1gXcjIkWKNkQjp0Ypwd=13037127749',
-  ALIVE_REACT: '👋',
+  ALIVE_REACT: '👹️',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
